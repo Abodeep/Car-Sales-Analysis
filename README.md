@@ -6,15 +6,15 @@ An end-to-end car sales analytics project combining **Python-based exploratory d
 
 ---
 
-## Business Problem
-
-The business needs to understand which products, brands, regions, and price segments contribute most to sales performance in order to support better commercial and product-focused decisions.
-
----
-
 ## Dashboard
  ![Overview](powerbi/screenshots/overview.png)
  ![Details](powerbi/screenshots/details.png)
+
+---
+
+## Business Problem
+
+The business needs to understand which products, brands, regions, and price segments contribute most to sales performance in order to support better commercial and product-focused decisions.
 
 ---
 
