@@ -12,6 +12,12 @@ The business needs to understand which products, brands, regions, and price segm
 
 ---
 
+## Dashboard
+ ![Overview](powerbi/screenshots/overview.png)
+ ![Details](powerbi/screenshots/details.png)
+
+---
+
 ## Project Objectives
 
 - Evaluate sales performance over time.
